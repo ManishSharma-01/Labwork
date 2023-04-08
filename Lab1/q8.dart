@@ -1,4 +1,4 @@
-//program to perform  +, -, division , x
+//program to perform  +, -, division , x (calculator)
 
 double add(var num1, var num2) => num1 + num2;
 double sub({var num1, var num2}) => num1 - num2;

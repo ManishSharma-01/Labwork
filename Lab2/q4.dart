@@ -7,13 +7,13 @@ void printList(List lst) {
 }
 
 void main() {
-  List<String> lst = [];
-  lst.add("Sunday");
-  lst.add("Monday");
-  lst.add("Tuesday");
-  lst.add("Wednesday");
-  lst.add("Thursday");
-  lst.add("Friday");
-  lst.add("Saturday");
-  printList(lst);
+  List<String> days = [];
+  days.add("Sunday");
+  days.add("Monday");
+  days.add("Tuesday");
+  days.add("Wednesday");
+  days.add("Thursday");
+  days.add("Friday");
+  days.add("Saturday");
+  printList(days);
 }

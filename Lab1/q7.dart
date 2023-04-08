@@ -5,9 +5,10 @@ multiply() {
 
   for (int i = 1; i <= num; i++) {
     for (int j = 1; j <= num; j++) {
-      print("$i * $j = ${j * 1}");
+      print("$i * $j = ${j * i}");
     }
     // print("5 * $i = ${i * 5}");
+    print("");
   }
 }
 

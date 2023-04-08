@@ -5,7 +5,7 @@ void main(){
 
 print("Enter your letter");
 String? letter = stdin.readLineSync();
-print('loading..');
+// print('loading..');
 
 //List vowel = ['a','e','i','o','u'];
 letter = letter?.toLowerCase();
